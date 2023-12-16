@@ -96,7 +96,7 @@ class _HomePageState extends State<HomePage> {
         ),
       ),
       body: Container(
-        padding:const EdgeInsets.symmetric(
+        padding: const EdgeInsets.symmetric(
           horizontal: 20,
           vertical: 20,
         ),
